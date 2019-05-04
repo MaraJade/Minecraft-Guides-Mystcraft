@@ -19,7 +19,6 @@ restaurant:
     priceRange: $
 ---
 
-
 All notable changes to this guide will be documented here.
 
 

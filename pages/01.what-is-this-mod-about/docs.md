@@ -1,8 +1,9 @@
 ---
-title: 'What is this mod about?'
+title: 'Mystcraft - A Comprehensive Guide'
 taxonomy:
     category:
         - docs
+menu: Mystcraft
 visible: true
 googletitle: 'MinecraftGuides.net | Mystcraft - A Comprehensive Guide'
 googledesc: 'Mystcraft is a popular mod based on the Myst series. Made popular in Minecraft 1.7.10, Mystcraft allows you to write books to travel to “Ages”...'
@@ -11,18 +12,7 @@ twittercardoptions: summary_large_image
 twittershareimg: /getting-started/instability/decay.jpg
 twittertitle: 'MinecraftGuides.net | Mystcraft - A Comprehensive Guide'
 twitterdescription: 'Mystcraft is a popular mod based on the Myst series. Made popular in Minecraft 1.7.10, Mystcraft allows you to write books to travel to “Ages”...'
-articleenabled: false
-musiceventenabled: false
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-eventenabled: false
-personenabled: false
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
+facebookenable: false
 ---
 
 Mystcraft is a popular mod based on the Myst series. Made popular in Minecraft 1.7.10, Mystcraft allows you to write books to travel to “Ages” or Dimensions with a variety of different parameters. Lava Lakes? Easy. Permanent night? No problem. Diamond Block spheres? 
