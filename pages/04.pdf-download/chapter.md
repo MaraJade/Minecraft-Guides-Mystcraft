@@ -1,22 +1,13 @@
 ---
 title: 'PDF Download'
+media_order: 'Mystcraft - A Comprehensive Guide.pdf.zip'
 taxonomy:
     category: docs
+twitterenable: true
 twittercardoptions: summary
-articleenabled: false
-musiceventenabled: false
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-eventenabled: false
-personenabled: false
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
+facebookenable: false
 ---
 
 # PDF Download
 
-This guide is also in PDF formart and can be found [HERE]() and is in a ZIP file.
+This guide is also in PDF formart and can be found [HERE](Mystcraft%20-%20A%20Comprehensive%20Guide.pdf.zip) and is in a ZIP file.
