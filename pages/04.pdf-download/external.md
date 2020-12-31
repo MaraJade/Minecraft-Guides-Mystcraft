@@ -1,7 +1,7 @@
 ---
 title: 'PDF Download'
-external_url: 'https://myst.minecraftguides.net/Mystcraft%20-%20A%20Comprehensive%20Guide.pdf'
-media_order: 'Mystcraft - A Comprehensive Guide.pdf.zip'
+external_url: 'http://myst.minecraftguides.net/Mystcraft%20-%20A%20Comprehensive%20Guide.pdf'
+media_order: ''
 taxonomy:
     category: docs
 twitterenable: true
