@@ -41,3 +41,9 @@ Mystcraft lets you take control, and as long as your Ages are stable, you can cr
 * **Dimension** - Any world, usually one aside from the Overworld. The Nether and The End also count as dimensions.
 * **Age** - A Dimension accessible via a Descriptive Book, which literally describes the world it links to in detail
 
+>>>>>  This guide will not have any crafting recipes in it. Please use [JEI](https://minecraft.curseforge.com/projects/jei?gameCategorySlug=mc-mods&projectID=238222), as some modpacks change crafting recipes.
+
+<br>
+
+>>>>>  You can use the Arrow Keys to navigate pages backwards and forwards. The checkmarks next to the title indicate which pages you have visited. You can clear this by pressing "Clear History" at the bottom of the menu.
+
