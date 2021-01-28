@@ -1,12 +1,24 @@
 ---
 title: 'PDF Download'
-external_url: 'http://myst.minecraftguides.net/Mystcraft%20-%20A%20Comprehensive%20Guide.pdf'
+external_url: 'https://minecraftguides.net/myst/Mystcraft%20-%20A%20Comprehensive%20Guide.pdf'
 media_order: ''
 taxonomy:
     category: docs
 twitterenable: true
 twittercardoptions: summary
 facebookenable: false
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
 ---
 
 # PDF Download
